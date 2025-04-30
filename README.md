@@ -1,1 +1,1 @@
-# .com-login
+# com-login
